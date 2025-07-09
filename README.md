@@ -408,7 +408,7 @@ If you use this code or dataset, please cite:
 ```
 Mario Alejandro Bravo-Ortiz, Guevara-Navarro, E., & Holguin García, S. A. (2025). 
 MarioBravo12/BI-CVT: BI-CVT First Version (v1.0.1). Zenodo. 
-[https://doi.org/10.5281/zenodo.15722443](https://doi.org/10.5281/zenodo.15849991)
+https://doi.org/10.5281/zenodo.15849991
 ```
 
 And the dataset:
