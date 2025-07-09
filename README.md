@@ -88,7 +88,7 @@ pip install -r requirements.txt
 ```
 
 ### Required Packages
-- `tensorflow>=2.10.0` - Deep learning framework
+- `tensorflow>=2.14.0` - Deep learning framework
 - `mne>=1.2.0` - EEG data processing
 - `spkit>=0.0.9.7` - Signal processing toolkit
 - `opencv-python>=4.6.0` - Image processing
@@ -289,7 +289,7 @@ For questions about the implementation or requests for collaboration:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **BrainLat Consortium**: For providing the multimodal dataset
 - **Latin American Brain Health Institute**: For dataset coordination
@@ -298,7 +298,7 @@ For questions about the implementation or requests for collaboration:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 ### Technical Limitations
 - **Computational Requirements**: High-end GPU needed for training
